@@ -1,0 +1,7 @@
+{
+  "name": "teleBarbero",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
